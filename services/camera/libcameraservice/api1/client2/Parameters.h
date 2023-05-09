@@ -147,7 +147,6 @@ struct Parameters {
 
     bool recordingHint;
     bool videoStabilization;
-    bool videoStabilizationOnSupported = false;
 
     CameraParameters2 params;
     String8 paramsFlattened;
